@@ -1,0 +1,13 @@
+{
+    "name": "bonaventurewani/behat-json-api-tester",
+    "authors": [
+        {
+            "name": "Bonaventure Wani",
+            "email": "bonaventure.wani@oneshoe.nl"
+        }
+    ],
+    "require": {
+        "behat/behat": "^3.4",
+        "imbo/behat-api-extension": "^2.1"
+    }
+}
